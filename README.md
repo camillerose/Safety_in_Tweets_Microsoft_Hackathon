@@ -67,4 +67,4 @@ Other notebooks and files:
 ## Microsoft tools
   The [Sentiment Analysis API](https://westcentralus.dev.cognitive.microsoft.com/docs/services/TextAnalytics-v2-1/operations/56f30ceeeda5650db055a3c9), part of [Microsoft Cognitive services](https://azure.microsoft.com/en-us/services/cognitive-services/), was used to analyze changes in tweet sentiment over time.  
 
-Microsoft's [price-winning](https://blogs.microsoft.com/ai/microsoft-researchers-win-imagenet-computer-vision-challenge/) [residual learning framework](https://arxiv.org/abs/1512.03385) to recognize images was utilized to train the model to classify peaceful vs violent images.    
+Microsoft's [prize-winning](https://blogs.microsoft.com/ai/microsoft-researchers-win-imagenet-computer-vision-challenge/) [residual learning framework](https://arxiv.org/abs/1512.03385) to recognize images was utilized to train the model to classify peaceful vs violent images.    
