@@ -32,7 +32,7 @@ The model presented in this repository can be used by protesters who are on the 
 **Text sentiment analysis:** The folder *main_function_integration* contains a jupyter notebook *main.ipynb* that gets tweets and runs sentiment analysis to generate a plot:
 
 <p align="center">
-  <img src="sentiment_time_series_plots/hourly/24Mayo.png">
+  <img src="24Mayo.png">
 </p>
 
 Low sentiment values indicate a more negative sentiment, and changes in sentiment over time (blue line) were able to capture violence as reported by traditional (non-Twitter) media sources.
