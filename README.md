@@ -32,10 +32,10 @@ The model presented in this repository can be used by protesters who are on the 
 **Text sentiment analysis:** The folder *main_function_integration* contains a jupyter notebook *main.ipynb* that gets tweets and runs sentiment analysis to generate a plot:
 
 <p align="center">
-  <img src="24Mayo.png">
+  <img src="tweet_count_sentiment.png">
 </p>
 
-Low sentiment values indicate a more negative sentiment, and changes in sentiment over time (blue line) were able to capture violence as reported by traditional (non-Twitter) media sources.
+In the two exemplar images above, the gray bar indicates when violence was first reported for a protest on May 24. Low sentiment values indicate a more negative sentiment, and changes in sentiment over time (blue line) were able to capture violence as reported by traditional (non-Twitter) media sources. Before the outbreak of violence, a decrease in sentiment and an increase in tweet count (red bar) is observed. In addition, an outbreak of violence corresponded with a decrease in the number of peaceful images being posted to Twitter (and simultaneously, a rise in violent ones). 
 
 **Image sentiment analysis:** The PeaceViolencePredictor notebook uses the trained resnet50 model to determine whether images are peaceful or violent. 
 
